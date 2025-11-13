@@ -1,1 +1,1 @@
-# webov-str-nky
+# webove stranky - ve skole
